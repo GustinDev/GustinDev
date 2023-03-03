@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQE3lEdETKL3fA/profile-displaybackgroundimage-shrink_350_1400/0/1602797244018?e=1673481600&v=beta&t=gd_ptLR62TpN660VJwzEwV5hbYI9Jk2nIBGZgr4CzDM)](https://www.linkedin.com/in/juan-david-gustin-andino?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4B86%2FrY%2BTZCqOrwEVdtsKQ%3D%3D)
+
 <h1 align="center">Hi 👋, I'm Juan!</h1>
 <h3 align="center">A passionate frontend developer from Colombia.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal projects.**
 
-- 🌱 I’m currently learning **React and Typescript.**
+- 🌱 I’m currently learning **React, Redux and Typescript.**
 
 - 👯 I’m looking to collaborate on **MELI some day.**
 
