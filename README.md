@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal projects.**
 
-- 🌱 I’m currently learning **React, Redux and Typescript.**
+- 🌱 I’m currently learning **React, Redux and Express.**
 
 - 👯 I’m looking to collaborate on **MELI some day.**
 
