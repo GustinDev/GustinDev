@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MELI some day.**
 
-- 💬 Ask me about **Advanced JS and Python.**
+- 💬 Ask me about **Advanced JS, React & Redux Toolkit.**
 
 - 📫 How to reach me **juandgustin@gmail.com**
 
