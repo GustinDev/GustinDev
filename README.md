@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MELI some day.**
 
-- 💬 Ask me about **Advanced JS, React & Redux Toolkit.**
+- 💬 Ask me about **Advanced JS, React, Redux Toolkit, Tailwind & Bootstrap.**
 
 - 📫 How to reach me **juandgustin@gmail.com**
 
