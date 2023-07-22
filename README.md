@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal projects in NextJS.**
 
-- 🌱 I’m currently learning **Typescript and NextJS.**
+- 🌱 I’m currently learning **Typescript, NextJS and React Native**
 
 - 👯 I’m looking to collaborate on **MELI some day.**
 
