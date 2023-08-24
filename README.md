@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustindev&label=Profile%20views&color=0e75b6&style=flat" alt="gustindev" /> </p>
 
-- 🔭 I’m currently working on **personal projects in NextJS.**
+- 🔭 I’m currently working as a **Junior Frontend Developer in Ant Pack.**
 
 - 🌱 I’m currently learning **Typescript, NextJS and React Native**
 
