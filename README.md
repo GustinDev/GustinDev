@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working as a **Junior Full Stack Developer in Ant Pack.**
 
-- 🌱 I’m currently learning **Typescript, NextJS and React Native**
+- 🌱 I’m currently learning **NextJS & NestJS**
 
 - 👯 I’m looking to collaborate on **MELI some day.**
 
-- 💬 Ask me about **Advanced JS, React, Redux Toolkit, Tailwind & Bootstrap.**
+- 💬 Ask me about **Typescript, React, Redux Toolkit, Tailwind & Bootstrap.**
 
 - 📫 How to reach me **juandgustin@gmail.com**
 
